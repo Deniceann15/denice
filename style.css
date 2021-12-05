@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    
+
+    <title>Document</title> <img class="responsive-img" src="ntc.png"> 
+        
+<h3>ATTENDANCE FOR SENIOR HIGH STUDENTS</h3>
+
+</head>
+<body>
+        
+                
+    <table> 
+        <thead>
+          <tr>
+              <th>GIRLS</th> 
+              <th>BOYS</th>
+              <th>ABSENT</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          <tr>
+            <td>Cacal Shane</td>
+            <td>Romero, Denver</td>
+            <td>Galio, Jeric</td>
+          </tr>
+          <tr>
+            <td>Guilas, Nina</td>
+            <td>Lazaro, Lorenzo</td>
+            <td>Paras, Andrei</td>
+          </tr>
+          <tr>
+            <td>Hernandez, Kitty</td>
+            <td>Reyes, Johnrey</td>
+            <td>Tolentino, Nico</td>
+          </tr>
+          <tr>
+            <td>Tores, Kayla</td>
+            <td>Guinto, Joey</td>
+            <td>Lasera, Anna</td>
+        </tr>
+        <tr>
+          <td>Jaime, Mae</td>
+          <td>Sabsalon, John</td>
+          <td>Fiona, Chloe</td>
+        </tr>
+    </tr>
+    <tr>
+      <td>Pajardo, Geraldine</td>
+      <td>Lim, Justine</td>
+      <td>Helesta, Jerry</td>
+    </tr>
+</tr>
+<tr>
+  <td>Hapostor, Mika</td>
+  <td>Natividad, Henry</td>
+  <td>Balomaga, Kian</td>
+</tr>
+<tr>
+  <td>Sibat, Jasmine</td>
+  <td>Rivera, Carlo</td>
+  <td>Valenzuela, Jennifer</td>
+</tr>
+<tr>
+  <td>Shantal, Nicole</td>
+  <td>Nery, Arthur</td>
+  <td>Salonga, Kurt</td>
+</tr>
+ </tbody>
+ </table>
+
+      
+      
+        
+</body>
+</html>
