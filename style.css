@@ -1,82 +1,65 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-    
-
-    <title>Document</title> <img class="responsive-img" src="ntc.png"> 
-        
-<h3>ATTENDANCE FOR SENIOR HIGH STUDENTS</h3>
-
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"> 
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+   <title>KARL PAOLO SAEZ</title>
+   <style type="text/css">
+    body {
+      background:#bdbdbd
+    }
+  </style>
 </head>
-<body>
-        
-                
-    <table> 
-        <thead>
-          <tr>
-              <th>GIRLS</th> 
-              <th>BOYS</th>
-              <th>ABSENT</th>
-          </tr>
-        </thead>
+<body><center>
 
-        <tbody>
-          <tr>
-            <td>Cacal Shane</td>
-            <td>Romero, Denver</td>
-            <td>Galio, Jeric</td>
-          </tr>
-          <tr>
-            <td>Guilas, Nina</td>
-            <td>Lazaro, Lorenzo</td>
-            <td>Paras, Andrei</td>
-          </tr>
-          <tr>
-            <td>Hernandez, Kitty</td>
-            <td>Reyes, Johnrey</td>
-            <td>Tolentino, Nico</td>
-          </tr>
-          <tr>
-            <td>Tores, Kayla</td>
-            <td>Guinto, Joey</td>
-            <td>Lasera, Anna</td>
-        </tr>
-        <tr>
-          <td>Jaime, Mae</td>
-          <td>Sabsalon, John</td>
-          <td>Fiona, Chloe</td>
-        </tr>
-    </tr>
-    <tr>
-      <td>Pajardo, Geraldine</td>
-      <td>Lim, Justine</td>
-      <td>Helesta, Jerry</td>
-    </tr>
-</tr>
-<tr>
-  <td>Hapostor, Mika</td>
-  <td>Natividad, Henry</td>
-  <td>Balomaga, Kian</td>
-</tr>
-<tr>
-  <td>Sibat, Jasmine</td>
-  <td>Rivera, Carlo</td>
-  <td>Valenzuela, Jennifer</td>
-</tr>
-<tr>
-  <td>Shantal, Nicole</td>
-  <td>Nery, Arthur</td>
-  <td>Salonga, Kurt</td>
-</tr>
- </tbody>
- </table>
-
-      
-      
+    <h1>MODALS</h1>
+    <nav>
+        <div class="nav-wrapper">
+          <a href="#!" class="brand-logo"><i class="material-icons">android</i>Facebook</a>
         
-</body>
-</html>
+          <ul class="right hide-on-med-and-down">
+            <li><a href="sass.html"><i class="material-icons">archive</i></a></li>
+            <li><a href="badges.html"><i class="material-icons">arrow_back</i></a></li>
+            <li><a href="collapsible.html"><i class="material-icons">clear</i></a></li>
+            <li><a href="mobile.html"><i class="material-icons">camera</i></a></li>
+          </ul>
+        </div>
+      </nav>
+
+<a class="container">
+    <!-- Modal Trigger -->
+      <a class="waves-effect waves-light btn modal-trigger" href="#modal1">Add to cart</a>
+ 
+    <!-- Modal Structure -->
+    
+      <div id="modal1" class="modal">
+        <div class="modal-content">
+          <h4>And this is how it works.</h4>
+          <p>DROP SOME </p>
+        </div>
+        <div class="modal-footer">
+          <a href="#!" class="modal-close waves-effect waves-green btn-flat">Close</a>
+        </div>
+      </div>
+  
+
+
+        <!-- Jquery CDN -->
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+        <script type="text/javascript">
+        $(document).ready(function(){
+            $('.modal').modal();
+          });
+        </script>
+
+        <!-- Compiled and minified JavaScript -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js">
+        </script>
+        
+
+</center></body>
